@@ -1,5 +1,6 @@
 
 import "../styles/index.css";
+import { Analytics } from "@vercel/analytics/next"
 
 
 export default function RootLayout({
@@ -15,6 +16,7 @@ export default function RootLayout({
         </head>
 
         {children}
+        <Analytics />
       </body>
     </html>
   );
