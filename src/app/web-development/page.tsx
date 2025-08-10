@@ -4,9 +4,31 @@ import WebDevServices from "@/components/web-development";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-	title: "Web Development || Code & Promote - Best Digital Marketing | Web Development Agency",
+	title: "Custom Website Development for Every Business | Code & Promote",
   description:
-    "Code & Promote - Best Digital Marketing | Web Development Agency",
+    "Professional website development services delivering responsive, SEO-friendly designs that convert visitors into customers.",
+	keywords: [
+    "web development",
+    "digital marketing",
+    "mobile app development",
+    "SEO services",
+    "social media marketing",
+    "branding",
+    "UI/UX design",
+    "website design",
+    "online advertising",
+    "Code and Promote",
+    "growth marketing",
+    "full stack development",
+    "WordPress development",
+    "eCommerce solutions",
+    "web design agency",
+    "software development",
+    "custom website development",
+    "marketing agency",
+    "app design",
+    "digital strategy"
+  ]
 	 
 };
 

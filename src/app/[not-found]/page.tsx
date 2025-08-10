@@ -4,9 +4,9 @@ import Wrapper from '@/layouts/Wrapper';
 import React from 'react';
 
 export const metadata = {
-	title: "404 Error || Code & Promote - Best Digital Marketing | Web Development Agency",
+	title: "Web Development & Marketing That Drives Growth | Code & Promote",
   description:
-    "Code & Promote - Best Digital Marketing | Web Development Agency",
+    "Top digital agency offering expert web development, mobile apps, and marketing to build your brand and grow online.",
 };
 
 
