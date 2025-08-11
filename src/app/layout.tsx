@@ -4,6 +4,17 @@ import { Analytics } from "@vercel/analytics/next"
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 
+export const metadata = {
+  title: "Web Development & Marketing That Drives Growth | Code & Promote",
+  description:
+    "Top digital agency offering expert web development, mobile apps, and marketing to build your brand and grow online.",
+   
+  alternates: {
+    canonical: 'https://codeandpromote.io',
+  },
+};
+
+
 export default function RootLayout({
   children,
 }: Readonly<{
